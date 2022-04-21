@@ -9,9 +9,9 @@
 <p align="center">
   <img src=Turtle.png width="700"><br>
   <b>
-    Project first began on Novemeber 2, 2021.<br>
+    Project first began on September 25, 2021.<br>
     Project finished on November 3, 2021.<br>
-    24h Game Developement challenge I set myself to finish!
+    Cool project integrating art and programming!
   </b>
 </p>
 
