@@ -10,7 +10,6 @@
   <img src=Turtle.png width="700"><br>
   <b>
     Project first began on September 25, 2021.<br>
-    Project finished on November 3, 2021.<br>
     Cool project integrating art and programming!
   </b>
 </p>
@@ -43,7 +42,6 @@
 **There are many wawys you can expand on this project to draw amazing things! The Turtle module gives you the ability to create all types of art.**
 
 ***
-
 
 ### Check out this video on how it runs!
 https://user-images.githubusercontent.com/44340659/164370664-09180a71-0c71-44ab-a566-aa59275a01a0.mp4
