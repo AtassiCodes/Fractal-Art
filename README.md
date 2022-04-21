@@ -43,3 +43,8 @@
 **There are many wawys you can expand on this project to draw amazing things! The Turtle module gives you the ability to create all types of art.**
 
 ***
+
+
+### Check out this video on how it runs!
+
+
