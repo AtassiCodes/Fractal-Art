@@ -46,9 +46,8 @@
 
 
 ### Check out this video on how it runs!
-<div allign=centre>
-  https://user-images.githubusercontent.com/44340659/164370664-09180a71-0c71-44ab-a566-aa59275a01a0.mp4
-</div>
+https://user-images.githubusercontent.com/44340659/164370664-09180a71-0c71-44ab-a566-aa59275a01a0.mp4
+
 
 
 
